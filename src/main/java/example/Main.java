@@ -1,4 +1,4 @@
-package studio.buket.platform;
+package example;
 
 import com.github.manevolent.ffmpeg4j.FFmpegIO;
 import com.github.manevolent.ffmpeg4j.stream.output.FFmpegTargetStream;
